@@ -1,4 +1,4 @@
-# Brovey Pan-Sharpening: Enhancing Multi-Spectral Imagery for Geospatial Analysis
+# Pan-Sharpening Software: Enhancing Multi-Spectral Images for Geospatial Analysis
 
 Function "get_cube" performs pan-sharpening of low-resolution data from multi-spectral camera based on the
 high-resolution RGB image. If the pixel size of the data from a multi-spectral camera is not uniform compared to that
