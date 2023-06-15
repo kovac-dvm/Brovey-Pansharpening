@@ -5,4 +5,5 @@ high-resolution RGB image. If the pixel size of the data from a multi-spectral c
 of a RGB image, up-sampling is performed. The function returns a three-dimensional ndarray of type float32 and
 generates georeferenced .TIF file and optionally a .PDF file for analyzing specific bands and pan-sharpening results.
 
-![flow_chart](https://github.com/kovac-dvm/Brovey-Pansharpening/assets/85240065/dd024764-584e-4c39-a308-4f54daa8a34e)
+
+![flow_chart](https://github.com/kovac-dvm/Brovey-Pansharpening/assets/85240065/36848e74-3b52-4839-9e43-c1f19a022b78)
